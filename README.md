@@ -1,6 +1,12 @@
 ### About me
-Hi, I'm Christian Yánez, a software engineer.
+Hi, I'm Christian Yánez, a software engineer with a keen interest in computer graphics, fintech and cryptography.
 
+You can read my posts about what I discover at [https://www.yanezc.com/](https://www.yanezc.com/)
+
+<!--
+I also recommend you to subscribe to my newsletter where I publish content that you can only see if you are subscribed.
+-->
+<!--
 ### Some Stats
 
 <table>
@@ -13,3 +19,4 @@ Hi, I'm Christian Yánez, a software engineer.
     </td>
   </tr>
 </table>
+-->
